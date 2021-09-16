@@ -8,4 +8,9 @@
 5. You're done! You have officially made your first PR!
 6. My Name has been added.
 ## Add Your Name to the List below!
-Will Massey
+
+- Will Massey
+- Christina Okoduwa
+- simwbwlp
+- Magdalena
+
