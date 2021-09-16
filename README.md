@@ -8,6 +8,6 @@
 5. You're done! You have officially made your first PR!
 
 ## Add Your Name to the List below!
--Christina Okoduwa
--simwbwlp
+- Christina Okoduwa
+- simwbwlp
 - Magdalena
