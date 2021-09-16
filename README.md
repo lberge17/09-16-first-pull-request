@@ -8,6 +8,8 @@
 5. You're done! You have officially made your first PR!
 
 ## Add Your Name to the List below!
+
+- Takuma Koide
 - Gnana Labin
 - JJS
 - Laura
@@ -16,6 +18,6 @@
 - Christina Okoduwa
 - JOANNA FRENCH
 - Will Massey
-- Christina Okoduwa
 - simwbwlp
 - Magdalena
+
