@@ -6,10 +6,9 @@
 3. Edit the README to add your name and commit the change.
 4. Submit a PR on my repo lberge17/09-16-first-pull-request
 5. You're done! You have officially made your first PR!
-6. My Name has been added.
 
 ## Add Your Name to the List below!
-
+- Lucie Morillon
 -Christina Okoduwa
 -JOANNA FRENCH
 - Will Massey
