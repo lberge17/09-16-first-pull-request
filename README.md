@@ -9,6 +9,7 @@
 
 ## Add Your Name to the List below!
 
+- Jennifer Griffin
 - Takuma Koide
 - Gnana Labin
 - JJS
@@ -20,4 +21,3 @@
 - Will Massey
 - simwbwlp
 - Magdalena
-
