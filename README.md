@@ -8,6 +8,7 @@
 5. You're done! You have officially made your first PR!
 
 ## Add Your Name to the List below!
+- Laura
 - Yukiko
 - Lucie Morillon
 -Christina Okoduwa
@@ -16,4 +17,3 @@
 - Christina Okoduwa
 - simwbwlp
 - Magdalena
-
