@@ -8,6 +8,18 @@
 5. You're done! You have officially made your first PR!
 
 ## Add Your Name to the List below!
--Christina Okoduwa
+
 - Iyanna B.
-- 
+- Jennifer Griffin
+- Takuma Koide
+- Gnana Labin
+- JJS
+- Laura
+- Yukiko
+- Lucie Morillon
+- Christina Okoduwa
+- JOANNA FRENCH
+- Will Massey
+- simwbwlp
+- Magdalena
+
