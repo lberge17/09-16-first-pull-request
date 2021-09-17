@@ -9,6 +9,7 @@
 
 ## Add Your Name to the List below!
 
+- Giancarlos Rodriguez
 - Allison
 - Lindsey Laveirge
 - Kerry
@@ -32,4 +33,3 @@
 - Will Massey
 - simwbwlp
 - Magdalena
-
