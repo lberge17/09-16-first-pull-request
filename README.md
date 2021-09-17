@@ -8,6 +8,8 @@
 5. You're done! You have officially made your first PR!
 
 ## Add Your Name to the List below!
+
+- Lindsey Laveirge
 - Kerry
 - Dena Coduri
 - Fe-Creator
@@ -29,3 +31,4 @@
 - Will Massey
 - simwbwlp
 - Magdalena
+
