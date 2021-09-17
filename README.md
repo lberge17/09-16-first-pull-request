@@ -9,6 +9,7 @@
 
 ## Add Your Name to the List below!
 
+- Yeerae Kim
 - Derek L
 - L Valentine
 - Mahmood Sardari
