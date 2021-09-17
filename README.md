@@ -27,6 +27,7 @@
 - yoo
 - Laura
 - Yukiko
+- Firestarter
 - Lucie Morillon
 - Christina Okoduwa
 - JOANNA FRENCH
