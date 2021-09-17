@@ -9,6 +9,7 @@
 
 ## Add Your Name to the List below!
 
+- Kerry
 - Dena Coduri
 - Fe-Creator
 - Yeerae Kim
@@ -28,4 +29,3 @@
 - Will Massey
 - simwbwlp
 - Magdalena
-
