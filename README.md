@@ -8,7 +8,6 @@
 5. You're done! You have officially made your first PR!
 
 ## Add Your Name to the List below!
-
 - Kerry
 - Dena Coduri
 - Fe-Creator
@@ -21,6 +20,7 @@
 - Takuma Koide
 - Gnana Labin
 - JJS
+- yoo
 - Laura
 - Yukiko
 - Lucie Morillon
